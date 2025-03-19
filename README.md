@@ -4,7 +4,6 @@
 
 A lightweight, responsive e-commerce website template with core shopping functionality.
 
-![SimpliShop Screenshot](https://via.placeholder.com/800x400/4a69bd/ffffff?text=SimpliShop+E-commerce)
 
 ## Features
 
